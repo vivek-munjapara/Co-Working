@@ -616,6 +616,7 @@ body {
 
 .container8 .con8-slider {
   display: flex;
+  padding: 20px 0px 40px 0px;
 }
 
 .con5-img {
